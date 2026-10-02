@@ -1,0 +1,6 @@
+{
+  "name": "Before the World Changes",
+  "description": "A global digital time capsule and cinematic interactive 3D Earth for a shared worldwide transition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
